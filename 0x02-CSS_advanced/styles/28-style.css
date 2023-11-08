@@ -420,10 +420,10 @@ html {
 
     --header-padding: 4rem 0 0;
     --header-logo-position: relative;
-    --head-logo-link-display: inline-block;
-    --head-logo-link-position: absolute;
-    --head-logo-link-top: -1rem;
-    --head-logo-link-left: 0;
+    --header-logo-link-display: inline-block;
+    --header-logo-link-position: absolute;
+    --header-logo-link-top: -1rem;
+    --header-logo-link-left: 0;
 }
 
 body {

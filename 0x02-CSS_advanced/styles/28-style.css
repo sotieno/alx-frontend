@@ -573,7 +573,6 @@ a:active {
 
 .header-logo {
     position: var(--header-logo-position);
-    display: var(--head-logo-link-position);
 }
 
 .header-logo a {

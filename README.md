@@ -1,4 +1,4 @@
-# Frontend Specilization
+# Frontend Specilization - HTML & CSS
 
 ## Projects
 
